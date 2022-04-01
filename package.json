@@ -22,7 +22,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "deploy": "npm run build && gh-pages -d build",
-    "homepage": "https://daiki-lll.github.io/my-portfolio/"
+    "homepage": "https://daiki-lll.github.io./my-portfolio./"
 
   },
   "eslintConfig": {
