@@ -30,16 +30,30 @@
 .skill h3{
     color: rgb(76, 122, 192);
     font-size: 30px;
+    margin-top: 70px;
+    margin-bottom: 40px;
 }
 .skill ul{
-    display: inline-block;
-    text-align: center;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 .skill li{
     width: 300px;
     height: 330px;
+    padding: 20px 10px;
+    background: rgb(252, 252, 252);
+    box-shadow: 3px 3px 3px gray;
+    border-radius: 10px;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-bottom: 50px;
 }
 .skill img{
     width: 150px;
     height: 150px;
+}
+.skill p{
+    margin-top: 10px;
 }

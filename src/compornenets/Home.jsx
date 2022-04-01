@@ -7,9 +7,9 @@ const Home = () => {
   return (
     <div className='wrap'>
       <div className="inner">
-        <img src={home} alt="" />
         <Typography variant='h1'><span>Welcome to 
         my Portfolio</span></Typography>
+        <img src={home} alt="" />
       </div>
     </div>
   )
