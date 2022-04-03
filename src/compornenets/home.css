@@ -23,3 +23,12 @@ img{
 .inner h1{
     padding: 0;
 }
+@media screen and (max-width:550px) {
+    .inner span{
+        top: 27vh;
+        left: 14%;
+        width: 45%;
+        text-align: left;
+        font-size: 85px;
+    }
+}
