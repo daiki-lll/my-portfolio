@@ -25,10 +25,14 @@ img{
 }
 @media screen and (max-width:550px) {
     .inner span{
-        top: 27vh;
+        top: 30vh;
         left: 14%;
         width: 45%;
         text-align: left;
-        font-size: 85px;
+        font-size: 77px;
+    }
+    img{
+        width: 100%;
+        height: 100vh;
     }
 }
